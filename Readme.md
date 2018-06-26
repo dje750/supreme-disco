@@ -14,3 +14,4 @@ Welcome to my site
 
 
 ![test](/images/Desert.jpg)
+![test](/images/Penguins.jpg)
