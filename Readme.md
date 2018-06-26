@@ -13,4 +13,4 @@ Welcome to my site
 [GIT HUB URL] (http://www.google.com)
 
 
-![test](images/Desert.jpg)
+![test](/images/Desert.jpg)
